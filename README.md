@@ -1,6 +1,5 @@
 # Medical_Chatbot_Using_Llama2
-This version of Medical Chatbot utilizes use of [FAISS](https://github.com/facebookresearch/faiss) library of Meta
-and use of Meta's LLM [LLAMA-2](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main).
+This version of Medical Chatbot utilizes use of [FAISS](https://github.com/facebookresearch/faiss) library by Meta for vector storage and uses Meta's LLM [LLAMA-2](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main).
 
 ## Create a virtual env (ubuntu)
 ``` bash
